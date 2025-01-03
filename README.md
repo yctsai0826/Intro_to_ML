@@ -1,5 +1,8 @@
 # Introduction to Machine Learning
 
+- Year: 2024 fall
+- Instructor: Professor Yen-Yu Lin
+
 ##  **HW1**
   - Linear Regression
   - Gradient Descent
